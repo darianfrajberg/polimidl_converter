@@ -1,6 +1,6 @@
 # PolimiDL Converter
 
-__PolimiDL Converter__ is a Deep Learning model converter to support the use of __PolimiDL__ inference framework (https://github.com/darianfrajberg/polimidl).
+__PolimiDL Converter__ is a Deep Learning model converter to support the use of [PolimiDL](https://github.com/darianfrajberg/polimidl) inference framework.
 
 It takes in input a model trained with the Deep Learning framework of your choice and generates as output a model with __PolimiDL__'s compatible format for its deployment.
 
